@@ -1,0 +1,8 @@
+{
+    "name": "rsvenom",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "fabela build main.ts",
+        "dev": "fabela run main.ts"
+    }
+}
