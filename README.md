@@ -1,6 +1,8 @@
 # 🚧 Project Under Construction 🚧
 
-> **Note:** This project is currently under development. Some features may not be complete or may change in future versions.
+> \[!NOTE]
+>
+> This project is currently under development. Some features may not be complete or may change in future versions.
 
 📌 **Current Status:** Under construction 🏗️
 
